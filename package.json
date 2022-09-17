@@ -1,0 +1,33 @@
+{
+    "name": "burb-dark",
+    "displayName": "Burb Dark",
+    "description": "A really dark burb theme",
+    "version": "1.0.0",
+    "publisher": "594b4b",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/594B4B/burb-dark"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "594b4b",
+        "burb",
+        "burb dark",
+        "burb theme",
+        "burb dark theme"
+    ],
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Burb Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Burb Dark-color-theme.json"
+        }]
+    }
+}
