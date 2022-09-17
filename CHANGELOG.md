@@ -1,5 +1,21 @@
 # Change Log
 
+## [1.3.0]
+
+- 1.3.0 Stable release
+
+### Added
+
+- None
+
+### Changed
+
+- Readme
+
+### Fixed
+
+- None
+
 ## [1.1.0]
 
 - 1.1.0 Stable release
