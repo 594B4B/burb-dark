@@ -2,7 +2,7 @@
 
 ## Why you should have the burb theme:
  - Really darcc
- - Muck
+ - Burb
 
 ![plot](images/preview_1.png)
 
